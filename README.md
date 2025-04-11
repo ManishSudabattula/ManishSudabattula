@@ -1,4 +1,4 @@
-# 🤖 Project Sage Architect
+# 🤖 AI Generalist
 
 **`AI Craftsman | Mobile Innovator | Automation Enthusiast`**
 
