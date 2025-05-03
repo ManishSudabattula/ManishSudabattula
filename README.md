@@ -38,10 +38,10 @@ Let’s build smart, not just fast. ⚡
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishSudabattula&show_icons=true&theme=gruvbox)
 
 <!-- Optionally uncomment this line for streak stats -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=gruvbox&border_radius=4.5) -->
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ManishSudabattula&theme=gruvbox&border_radius=4.5)
 
 ---
 
