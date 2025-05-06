@@ -40,10 +40,6 @@ Let’s build smart, not just fast. ⚡
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishSudabattula&show_icons=true&theme=gruvbox)
 
-<!-- Optionally uncomment this line for streak stats -->
- ![GitHub Streak](https://streak-stats.demolab.com?user=ManishSudabattula&theme=gruvbox&border_radius=4.5)
-
----
 
 <!--
 ### 🧠 Ongoing Learning
