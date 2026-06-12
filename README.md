@@ -1,59 +1,134 @@
-# 🤖 AI Generalist
+<div align="center">
 
-**`AI Craftsman | Mobile Innovator | Automation Enthusiast`**
+<img width="100%" alt="Manish Sudabattula - Data Engineer and AI Builder" src="https://raw.githubusercontent.com/ManishSudabattula/portfolio-me/master/assets/readme-hero.svg" />
 
-I'm an indie developer and builder crafting intelligent systems to make everyday life easier, smarter, and more organized. I'm currently developing **PROJECT SAGE** – a voice-enabled mobile AI agent built using React Native (Expo), OpenAI, and n8n – designed to be your task manager, reminder system, and digital companion, all in one.
+# Manish Sudabattula
 
-Whether it's building mobile-first apps, learning test automation with Appium, or diving into AI workflows, I believe in creating impactful tech that solves real-world problems. I'm also exploring stray pet adoption platforms, Enterprise Content Management with OpenText, and pushing deeper into cloud tech like Docker & Kubernetes.
+### Data Engineer · AI Systems Builder · M.S. Computer Science
 
-Let’s build smart, not just fast. ⚡
+I build reliable cloud data platforms and evidence-grounded AI products.<br/>
+My work connects scalable pipelines, trustworthy data, and measurable intelligence.
 
----
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-73F2B5?style=for-the-badge&logo=githubpages&logoColor=07110F)](https://manishsudabattula.github.io/portfolio-me/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishsudabattula02)
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-12221E?style=for-the-badge&logo=gmail&logoColor=73F2B5)](mailto:sudabattulam@gmail.com)
 
-### 🛠️ Tech Toolbox
-
-<img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Appium" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<br />
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## What I Build
 
-- 🔥 **PROJECT SAGE** – AI-powered mobile productivity assistant (React Native + OpenAI + Firebase + n8n)
-- 🐾 **Pawmi** – Stray pet adoption platform, designed to simplify connections between shelters and pet lovers
-- 🧪 Learning Appium for mobile test automation
-- 📦 Exploring OpenText for Enterprise Content Management
+```text
+RAW SIGNALS  -->  TRUSTED DATA  -->  USEFUL INTELLIGENCE
+ ingestion         contracts           evaluation
+ streaming         lineage             observability
+ validation        modeling            measurable value
+```
 
----
+- **Cloud data systems** designed for scale, reliability, and understandable operations.
+- **ETL/ELT pipelines** with orchestration, testing, observability, and data contracts.
+- **Applied AI products** grounded in evidence, transparent metrics, and real infrastructure problems.
+- **Research prototypes** that turn standards and papers into interactive decision-support systems.
 
-### 📊 GitHub Stats
+## AI + Data Product Lab
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishSudabattula&show_icons=true&theme=gruvbox)
+<table>
+<tr>
+<td width="33%" valign="top">
 
+### EvidenceGrid
+**Evidence before eloquence.**
 
-<!--
-### 🧠 Ongoing Learning
+A release gate for RAG systems that audits claim support, retrieval relevance, latency, and cost before an AI answer ships.
 
-- Mobile automation testing with Appium
-- DSA + Math foundations
-- Computer networks + cloud native (K8s, Docker)
-- Voice-command systems & AI agents
--->
+`RAG` `Evaluation` `Prompting`
 
-> *"Build like a dev. Think like an assistant. Live like a human."*
+[Open live demo →](https://manishsudabattula.github.io/portfolio-me/projects/evidence-grid/)
 
----
+</td>
+<td width="33%" valign="top">
 
-📬 Reach out if you're building something cool or want to collab!  
-💡 Sleeping & chilling are still top-tier hobbies.
+### LineageGuard
+**Know the blast radius first.**
 
+An AI-assisted schema-change control plane that detects downstream breakage and generates a safe migration sequence.
+
+`Lineage` `Contracts` `AI Copilot`
+
+[Open live demo →](https://manishsudabattula.github.io/portfolio-me/projects/lineage-guard/)
+
+</td>
+<td width="33%" valign="top">
+
+### CarbonShift
+**Run AI when the grid is ready.**
+
+A carbon-, cost-, and deadline-aware scheduler for flexible evaluation, inference, and fine-tuning workloads.
+
+`Optimization` `Energy Data` `MLOps`
+
+[Open live demo →](https://manishsudabattula.github.io/portfolio-me/projects/carbon-shift/)
+
+</td>
+</tr>
+</table>
+
+> These prototypes are grounded in work from [NIST](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf), [RAGAS](https://arxiv.org/abs/2309.15217), [OpenLineage](https://openlineage.io/docs/spec/object-model/), and the [IEA](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai).
+
+## Selected Academic Work
+
+| Project | Focus | Outcome |
+|---|---|---|
+| **Adversarial Safenet** | LLM adversarial robustness and safety-aware classification | Evaluated **500+** prompt variations, achieved **87%** classifier accuracy, reduced toxic output by **62%** |
+| **Citation Graph Mining** | Graph pipelines, PageRank, and community detection | Processed **10K+** citations across **3K+** nodes and discovered **5** research clusters |
+
+## Technology Landscape
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1A17?style=flat-square&logo=python&logoColor=73F2B5)
+![SQL](https://img.shields.io/badge/SQL-0D1A17?style=flat-square&logo=postgresql&logoColor=73F2B5)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1A17?style=flat-square&logo=apachespark&logoColor=73F2B5)
+![Kafka](https://img.shields.io/badge/Kafka-0D1A17?style=flat-square&logo=apachekafka&logoColor=73F2B5)
+![dbt](https://img.shields.io/badge/dbt-0D1A17?style=flat-square&logo=dbt&logoColor=73F2B5)
+![Airflow](https://img.shields.io/badge/Airflow-0D1A17?style=flat-square&logo=apacheairflow&logoColor=73F2B5)
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1A17?style=flat-square&logo=snowflake&logoColor=73F2B5)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1A17?style=flat-square&logo=googlebigquery&logoColor=73F2B5)
+![GCP](https://img.shields.io/badge/GCP-0D1A17?style=flat-square&logo=googlecloud&logoColor=73F2B5)
+![AWS](https://img.shields.io/badge/AWS-0D1A17?style=flat-square&logo=amazonwebservices&logoColor=73F2B5)
+![Azure](https://img.shields.io/badge/Azure-0D1A17?style=flat-square&logo=microsoftazure&logoColor=73F2B5)
+![Docker](https://img.shields.io/badge/Docker-0D1A17?style=flat-square&logo=docker&logoColor=73F2B5)
+![Terraform](https://img.shields.io/badge/Terraform-0D1A17?style=flat-square&logo=terraform&logoColor=73F2B5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1A17?style=flat-square&logo=tensorflow&logoColor=73F2B5)
+
+</div>
+
+| Area | Tools and capabilities |
+|---|---|
+| **Data engineering** | ETL/ELT, dimensional modeling, migration, lineage, schema validation, performance tuning |
+| **Cloud & warehouse** | GCP, AWS, Azure, Snowflake, BigQuery, Synapse, Databricks, Redshift |
+| **Orchestration & quality** | Airflow, dbt, ADF, Great Expectations, observability, governance |
+| **Applied AI** | TensorFlow, Hugging Face, Scikit-learn, NetworkX, RAG evaluation |
+| **Delivery** | GitHub Actions, CI/CD, Docker, Terraform |
+
+## Engineering Principles
+
+- **Reliable by design** — quality checks, ownership, observability, and contracts belong inside the workflow.
+- **Built for scale** — systems should stay understandable as volume and teams grow.
+- **Evidence over confidence** — AI quality should be measured through support, relevance, risk, cost, and latency.
+- **Useful intelligence** — models matter when they solve a concrete problem and expose their trade-offs.
+
+## Credentials
+
+`Google Cloud Digital Leader` · `dbt Fundamentals` · `Apache Airflow Fundamentals`
+
+<div align="center">
+
+### Have a difficult data problem?
+
+[Explore my work](https://manishsudabattula.github.io/portfolio-me/) · [View the portfolio repository](https://github.com/ManishSudabattula/portfolio-me) · [Email me](mailto:sudabattulam@gmail.com)
+
+<sub>Designed for data. Built with intent.</sub>
+
+</div>
