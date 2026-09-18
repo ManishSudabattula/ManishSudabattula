@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" alt="Manish Sudabattula - Data Engineer and AI Builder" src="https://raw.githubusercontent.com/ManishSudabattula/portfolio-me/master/assets/readme-hero.svg" />
+<img width="100%" alt="Manish Sudabattula - AI Engineer and AI Systems Builder" src="https://raw.githubusercontent.com/ManishSudabattula/portfolio-me/master/assets/readme-hero.svg" />
 
 # Manish Sudabattula
 
-### Data Engineer · AI Systems Builder · M.S. Computer Science
+### AI Engineer · AI Systems Builder · M.S. Computer Science
 
 I build reliable cloud data platforms and evidence-grounded AI products.<br/>
 My work connects scalable pipelines, trustworthy data, and measurable intelligence.
