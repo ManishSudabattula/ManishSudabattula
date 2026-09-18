@@ -88,29 +88,31 @@ A carbon-, cost-, and deadline-aware scheduler for flexible evaluation, inferenc
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0D1A17?style=flat-square&logo=python&logoColor=73F2B5)
-![SQL](https://img.shields.io/badge/SQL-0D1A17?style=flat-square&logo=postgresql&logoColor=73F2B5)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1A17?style=flat-square&logo=pytorch&logoColor=73F2B5)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0D1A17?style=flat-square&logo=huggingface&logoColor=73F2B5)
+![LangChain](https://img.shields.io/badge/LangChain-0D1A17?style=flat-square&logo=chainlink&logoColor=73F2B5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1A17?style=flat-square&logo=fastapi&logoColor=73F2B5)
+![Docker](https://img.shields.io/badge/Docker-0D1A17?style=flat-square&logo=docker&logoColor=73F2B5)
+![AWS](https://img.shields.io/badge/AWS-0D1A17?style=flat-square&logo=amazonwebservices&logoColor=73F2B5)
+![GCP](https://img.shields.io/badge/GCP-0D1A17?style=flat-square&logo=googlecloud&logoColor=73F2B5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1A17?style=flat-square&logo=tensorflow&logoColor=73F2B5)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1A17?style=flat-square&logo=apachespark&logoColor=73F2B5)
 ![Kafka](https://img.shields.io/badge/Kafka-0D1A17?style=flat-square&logo=apachekafka&logoColor=73F2B5)
-![dbt](https://img.shields.io/badge/dbt-0D1A17?style=flat-square&logo=dbt&logoColor=73F2B5)
 ![Airflow](https://img.shields.io/badge/Airflow-0D1A17?style=flat-square&logo=apacheairflow&logoColor=73F2B5)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1A17?style=flat-square&logo=snowflake&logoColor=73F2B5)
 ![BigQuery](https://img.shields.io/badge/BigQuery-0D1A17?style=flat-square&logo=googlebigquery&logoColor=73F2B5)
-![GCP](https://img.shields.io/badge/GCP-0D1A17?style=flat-square&logo=googlecloud&logoColor=73F2B5)
-![AWS](https://img.shields.io/badge/AWS-0D1A17?style=flat-square&logo=amazonwebservices&logoColor=73F2B5)
-![Azure](https://img.shields.io/badge/Azure-0D1A17?style=flat-square&logo=microsoftazure&logoColor=73F2B5)
-![Docker](https://img.shields.io/badge/Docker-0D1A17?style=flat-square&logo=docker&logoColor=73F2B5)
-![Terraform](https://img.shields.io/badge/Terraform-0D1A17?style=flat-square&logo=terraform&logoColor=73F2B5)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1A17?style=flat-square&logo=tensorflow&logoColor=73F2B5)
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1A17?style=flat-square&logo=snowflake&logoColor=73F2B5)
 
 </div>
 
 | Area | Tools and capabilities |
 |---|---|
-| **Data engineering** | ETL/ELT, dimensional modeling, migration, lineage, schema validation, performance tuning |
-| **Cloud & warehouse** | GCP, AWS, Azure, Snowflake, BigQuery, Synapse, Databricks, Redshift |
-| **Orchestration & quality** | Airflow, dbt, ADF, Great Expectations, observability, governance |
-| **Applied AI** | TensorFlow, Hugging Face, Scikit-learn, NetworkX, RAG evaluation |
-| **Delivery** | GitHub Actions, CI/CD, Docker, Terraform |
+| **Agentic AI & LLM Systems** | LangGraph, LangChain, tool calling, multi-step workflows, agent memory, orchestration, guardrails |
+| **RAG & Evaluation** | Retrieval pipelines, embeddings, vector search, grounding, hallucination checks, prompt evaluation, RAG evaluation |
+| **Machine Learning & NLP** | PyTorch, TensorFlow, Hugging Face, Scikit-learn, Transformers, fine-tuning, NLP |
+| **AI Application Engineering** | Python, FastAPI, REST APIs, structured outputs, async workflows, Playwright, Pydantic |
+| **MLOps & Observability** | Docker, GitHub Actions, CI/CD, evaluation pipelines, logging, tracing, model monitoring |
+| **Cloud & Data Infrastructure** | AWS, GCP, Azure, Spark, Kafka, BigQuery, Snowflake, Airflow, dbt |
+| **Security & Reliability** | RBAC, secrets management, prompt safety, audit trails, idempotency, validation |
 
 ## Engineering Principles
 
